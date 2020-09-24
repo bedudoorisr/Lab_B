@@ -1,4 +1,6 @@
-﻿namespace GeometricFigureHandler
+using System;
+
+namespace GeometricFigureHandler
 {
     public class Rectangle : Shape2D
     {
