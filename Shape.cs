@@ -1,4 +1,6 @@
-﻿namespace GeometricFigureHandler
+using System;
+
+namespace GeometricFigureHandler
 {
     public abstract class Shape
     {
